@@ -1,5 +1,5 @@
 # Pascal's Triangle (CodeWars 4kyu)
-
+## To see the code, open the folder and then open "Program.cs."
 
 Wikipedia article on Pascal's Triangle: http://en.wikipedia.org/wiki/Pascal's_triangle
 
